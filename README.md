@@ -1,5 +1,2 @@
 # hello_world
-
-这是我的第一个代码仓库！
-我只是拿这个用来实验一下如何使用github的。
-想要变成一个很厉害的人，哈哈哈哈。
+it's my first repository
